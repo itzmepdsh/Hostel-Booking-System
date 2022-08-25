@@ -1,7 +1,8 @@
 /*
-DEVELOPED BY :-
-    Pradeep Sharma
---------------------------------------HOSTEL BOOKING SYSTEM-------------------------------------------------
+    DEVELOPED BY : PRADEEP SHARMA
+
+
+----------------------------------------HOSTEL BOOKING SYSTEM---------------------------------------------------
 */
 
 #include <iostream>
@@ -708,8 +709,6 @@ int main()
     cout <<"\t\t * * * *****  *     *     *   * * * * *****\n";
     cout <<"\t\t * * * *      *     *     *   * * * * *\n";
     cout <<"\t\t  ***   ****  *****  ****  ***  * * *  ****\n";
-    cout << "\n\n\t\tDeveloped By:\n";
-    cout << "\n\t PRADEEP SHARMA;
     cout << "\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
     getch();
     make_queue();
