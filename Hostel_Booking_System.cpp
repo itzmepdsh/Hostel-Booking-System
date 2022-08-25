@@ -1,6 +1,9 @@
-//Pradeep Sharma (2K20/MC/98)
-//DATA STRUCTURE LAB PROJECT
-//HOSTEL BOOKING SYSTEM
+/*
+DEVELOPED BY :-
+    Pradeep Sharma
+--------------------------------------HOSTEL BOOKING SYSTEM-------------------------------------------------
+*/
+
 #include <iostream>
 #include <conio.h>
 #include <fstream>
@@ -706,7 +709,7 @@ int main()
     cout <<"\t\t * * * *      *     *     *   * * * * *\n";
     cout <<"\t\t  ***   ****  *****  ****  ***  * * *  ****\n";
     cout << "\n\n\t\tDeveloped By:\n";
-    cout << "\n\t PRADEEP SHARMA (2K20/MC/98);
+    cout << "\n\t PRADEEP SHARMA;
     cout << "\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
     getch();
     make_queue();
