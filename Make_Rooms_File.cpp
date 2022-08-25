@@ -1,4 +1,3 @@
-//Pradeep Sharma(2K20/MC/98)
 //To make a room file for storing seat availability.
 #include <iostream>
 #include<fstream>
